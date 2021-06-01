@@ -4,7 +4,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: var(--text);
     background: var(--bg);
-    transition: 2s ease-in-out;
+    transition: background 1s ease-in-out, color 1.5s ease-in-out;
 }
 
 ul {
